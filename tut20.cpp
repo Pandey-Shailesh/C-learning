@@ -5,7 +5,7 @@
 
 🥰Why Object-Oriented Programming?
 
- 1. C++ language was designed with the main intention of adding object-oriented programming to C language. 
+ 1. C++ language was designed with the main intention of adding object-oriented programming to C language.
  2. As the size of the program increases readability, maintainability, and bug-free nature of the program decrease.
     This was the major problem with languages like C which relied upon functions or procedure (hence the name procedural programming language)
  3. As a result, the possibility of not addressing the problem adequately was high
