@@ -13,6 +13,7 @@ int main()
     cout << endl;
     cout << "following are the types operators in c++" << endl;
     // Arithmetic operators
+    
 
     cout << "the value of a+b is " << a + b << endl;
     cout << "the value of a-b is " << a - b << endl;
