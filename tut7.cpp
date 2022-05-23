@@ -8,7 +8,6 @@ int c=45;
 int main()
 {
     int a,b,c;
-  
 
     //***************Build in Data types********************
     cout<<" Enter the value of a:"<<endl;
