@@ -1,10 +1,10 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
-//this is made by shailesh
+// this is made by shailesh
 int main()
-{ 
+{
     int sum = 6;
-    cout<<"hello   "<< sum;
+    cout << "hello   " << sum;
     return 0;
 }
